@@ -2,6 +2,7 @@
 
 - 🔭 Chief Technical Officer at Samolet Group (top 1 real estate developer in Europe).
 - 🕶️ Leading a team of 55+ developers, QAs, architects and devops engineers in HR-Tech domain.
+- ✍️ Writing about IT in [Telegram](https://t.me/myengineeringnotes)
 - 👪 Father and husband.
 - 💻 My primary expertise is leadership, IT strategy, software architecture, project management and full-stack development.
 - 💰 Expert-vetted (top 1%) freelancer at Upwork.
