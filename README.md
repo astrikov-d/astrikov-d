@@ -1,5 +1,6 @@
 ## Hi there, I'm Dmitry 👋
 
+- 💚 Engineering Team Lead at Avito.
 - 🔭 Ex-CTO at Samolet Group (top 1 real estate developer in Europe).
 - ✍️ Writing about IT in [Telegram](https://t.me/myengineeringnotes).
 - 👪 Father and husband.
